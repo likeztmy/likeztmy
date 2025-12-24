@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 😀 My name is 吴梓煌
 - 🏫 I’m currently studying on CCNU 
 - 🌱 I’m currently learning React, Typescript
 - 📫 How to reach me: polarbearwzh@gmail.com
